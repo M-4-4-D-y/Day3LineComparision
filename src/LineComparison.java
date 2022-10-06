@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class LineComparison {
+
     static double findLineLength() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter co-ordinates for two points:");
